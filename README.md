@@ -6,7 +6,7 @@ Device configuration for Samsung beni GT-S5670 for compiling GingerDX
 Getting Started
 ---------------
 
-To get started with Android for ARMv6/CyanogenMod, you'll need to get
+To get started with GingerDX, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
